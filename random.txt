@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hello I am Just a text
+=======
+I was thinking something different today xD
+
+Hi I am new in this
+
+Oi you want anything?
+>>>>>>> 3b162a2c84fa2bdae9af17ffe3860723c61e0c55
