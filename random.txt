@@ -5,5 +5,10 @@ I was thinking something different today xD
 
 Hi I am new in this
 
+<<<<<<< HEAD
 Oi you want anything?
 >>>>>>> 3b162a2c84fa2bdae9af17ffe3860723c61e0c55
+=======
+
+You here?
+>>>>>>> 79d277677b1a72bb1d8ace0e42ca5d30ee577483
